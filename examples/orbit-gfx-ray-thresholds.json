@@ -1,0 +1,17 @@
+{
+  "repo": "orbit-gfx-ray-scope",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 5,
+    "ship": 184,
+    "watch": 96
+  },
+  "terms": [
+    "geometry span",
+    "atlas pressure",
+    "shader drift",
+    "render budget"
+  ]
+}
